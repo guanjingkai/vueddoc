@@ -1,0 +1,7 @@
+* [快速开始](docs/install)
+* [路由配置](docs/router)
+* [菜单配置](docs/menu)
+* [全局配置/方法](docs/global)
+* [组件](docs/component)
+* [接口请求](docs/http)
+* [Mock数据](docs/mock)
